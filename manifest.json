@@ -1,0 +1,11 @@
+{
+	"id": "graphless-links-original",
+	"name": "Graphless Links Original",
+	"version": "1.3.0",
+	"minAppVersion": "1.5.0",
+	"description": "Adds a new kind of link that doesn't appear in the graph.",
+	"author": "Omar Tahir",
+	"authorUrl": "",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}
