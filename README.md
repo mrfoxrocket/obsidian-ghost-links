@@ -11,8 +11,15 @@ It looks like a regular link, except that it doesn't create an edge in the graph
 
 Does not support Markdown links, only WikiLinks.
 
-Fork adds autocomplete functionality.
+Forked from [obsidian-graphhless-links](https://github.com/Talndir/obsidian-graphless-links) to add autocomplete functionality.
 
-Forked from [obsidian-graphhless-links](https://github.com/Talndir/obsidian-graphless-links)
+# Installation
 
-Some portions of code adapted from [Frontmatter Links](https://github.com/Trikzon/obsidian-frontmatter-links). Some code contributed by kotaindah55 from the Obsidian discord.
+As per the [Obsidian Sample Repo](https://github.com/obsidianmd/obsidian-sample-plugin)
+
+1. Clone this repo.
+2. Make sure your NodeJS is at least v16 (node --version).
+3. npm i or yarn to install dependencies.
+4. npm run build or npm run dev to start compilation in watch mode.
+5. Optional - Delete everything expect main.js and mainfest.json.
+6. Enable plugin in Obsidian community plugins settings.
